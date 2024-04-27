@@ -17,6 +17,11 @@
 - Data science is a field that requires collaboration and teamwork to solve complex problems and achieve common goals.
 - Data science is a field that requires ethical considerations and responsible use of data to ensure privacy, security, and fairness.
 
+# example of data science real life
+
+- data science is used in healthcare to predict patient outcomes, diagnose diseases, and improve treatment plans.
+- data science is used in finance to detect fraud, predict market trends, and optimize investment strategies.
+- 
 ## work flow of data science
 
 ### Data collection:
@@ -181,3 +186,12 @@
 
 # Thank you for your attention and participation! 
 #  see you in the next class InshaAllah
+
+
+
+core pillars of data science
+- Data Engineering
+- Data Analysis
+- Data Science
+- Machine Learning Engineering
+- 

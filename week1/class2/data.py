@@ -140,3 +140,26 @@
 # 2. Cloud data storage: data is stored to make it accessible
 
 
+
+
+
+
+
+# 7.	Suppose we have data as 9, 6,-2, 4, 7, 18, 20, Perform Smoothing by Bin boundary method.
+
+# solution:
+data = [9, 6, -2, 4, 7, 18, 20]
+# bin boundary method using pandas
+import pandas as pd
+data = pd.Series(data)
+data = data.rolling(window=3, min_periods=1).mean()
+print(data)
+
+# 8.	Suppose we have data as 9, 6,-2, 4, 7, 18, 20, Perform Smoothing by Bin center method.
+
+# solution:
+data = [9, 6, -2, 4, 7, 18, 20]
+# bin center method using pandas
+import pandas as pd
+data = pd.Series(data)
+data = data.rolling(window=3, min_periods=1, center=True).mean()
