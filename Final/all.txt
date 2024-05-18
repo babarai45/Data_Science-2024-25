@@ -1,0 +1,72 @@
+DATA SCIENCE AND MACHINE LEARNING ROAD MAP
+-------------------------------------------
+-------------------------------------------
+
+
+1. Introduction to Data Science and Machine Learning
+2. Python for Data Science and Machine Learning
+3. Data Preprocessing
+4. Data Visualization
+5. Machine Learning
+6. Deep Learning
+7. Natural Language Processing
+8. Big Data
+9. Data Science and Machine Learning Projects
+10. Data Science and Machine Learning Interview Questions
+11. Data Science and Machine Learning Career Guidance
+12. Data Science and Machine Learning Resources
+13. Data Science and Machine Learning Certifications
+14. Data Science and Machine Learning Salary
+
+
+-------------------------------------------
+-------------------------------------------
+                DATA SCIENCE 
+-------------------------------------------
+-------------------------------------------
+
+Data Science is a field that uses scientific methods,
+processes, algorithms and systems to extract knowledge 
+and insights from structured and unstructured data. 
+Data Science is a multidisciplinary field that combines statistics,
+ data analysis, machine learning, 
+ domain knowledge and programming to analyze and interpret complex data.
+
+
+-------------------------------------------
+-------------------------------------------
+                MACHINE LEARNING
+-------------------------------------------
+-------------------------------------------
+
+Machine Learning is a subset of Artificial Intelligence that focuses 
+on the development of computer programs that can access data 
+and use it to learn for themselves. The primary aim is to allow 
+the computers learn automatically without human intervention or 
+assistance and adjust actions accordingly.
+
+
+-------------------------------------------
+-------------------------------------------
+                DATA SCIENCE AND MACHINE LEARNING ROAD MAP
+-------------------------------------------
+-------------------------------------------
+
+1. Problem Definition
+2. Data Collection
+3. Data Preprocessing
+4. Data Exploration
+5. Data Visualization
+6. Feature Engineering
+7. Model Selection
+8. Model Training
+9. Model Evaluation
+10. Model Deployment
+11. Model Monitoring
+12. Model Maintenance
+
+
+-------------------------------------------
+-------------------------------------------
+                DATA SCIENCE AND MACHINE LEARNING TOOLS
+                
