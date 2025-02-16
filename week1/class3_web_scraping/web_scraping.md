@@ -245,3 +245,22 @@
 
 
 #---------------------------------#
+
+
+graph TD
+    A[Source Code<br>(hello.c)]:::source --> B[Preprocessor<br>(cpp)]:::process
+    B --> C[Preprocessed Code]:::file
+    C --> D[Compiler<br>(cc1)]:::process
+    D --> E[Assembly Code<br>(hello.s)]:::file
+    E --> F[Assembler<br>(as)]:::process
+    F --> G[Object Code<br>(hello.o)]:::file
+    G --> H[Linker<br>(ld)]:::process
+    H --> I[Executable<br>(a.out or hello)]:::executable
+
+    classDef source fill:#f9f,stroke:#333,stroke-width:2px,color:#000;
+    classDef process fill:#bbf,stroke:#333,stroke-width:2px,color:#000;
+    classDef file fill:#f96,stroke:#333,stroke-width:2px,color:#000;
+    classDef executable fill:#6f9,stroke:#333,stroke-width:2px,color:#000;
+
+
+    
